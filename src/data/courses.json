@@ -1,0 +1,76 @@
+[
+    {
+      "id": 1,
+      "name": "Wireless Bluetooth Headphones",
+      "description": "Noise-cancelling over-ear headphones with up to 20 hours of battery life.",
+      "price": 89.99,
+      "image": "https://example.com/images/headphones.jpg",
+      "category": "Electronics"
+    },
+    {
+      "id": 2,
+      "name": "Smartphone Stand",
+      "description": "Adjustable and foldable stand for smartphones and tablets.",
+      "price": 19.99,
+      "image": "https://example.com/images/stand.jpg",
+      "category": "Accessories"
+    },
+    {
+      "id": 3,
+      "name": "Laptop Backpack",
+      "description": "Durable backpack with dedicated compartments for laptops and accessories.",
+      "price": 49.99,
+      "image": "https://example.com/images/backpack.jpg",
+      "category": "Bags"
+    },
+    {
+      "id": 4,
+      "name": "Bluetooth Speaker",
+      "description": "Compact and portable speaker with deep bass and wireless connectivity.",
+      "price": 59.99,
+      "image": "https://example.com/images/speaker.jpg",
+      "category": "Electronics"
+    },
+    {
+      "id": 5,
+      "name": "Fitness Tracker",
+      "description": "Wearable fitness tracker with heart rate monitor and step counting.",
+      "price": 39.99,
+      "image": "https://example.com/images/fitness-tracker.jpg",
+      "category": "Wearables"
+    },
+    {
+      "id": 6,
+      "name": "Smartwatch",
+      "description": "Stylish smartwatch with fitness tracking, heart rate monitoring, and notifications.",
+      "price": 129.99,
+      "image": "https://example.com/images/smartwatch.jpg",
+      "category": "Wearables"
+    },
+    {
+      "id": 7,
+      "name": "Wireless Charging Pad",
+      "description": "Fast wireless charging pad for smartphones and wireless earbuds.",
+      "price": 24.99,
+      "image": "https://example.com/images/charger.jpg",
+      "category": "Accessories"
+    },
+    {
+      "id": 8,
+      "name": "Coffee Maker",
+      "description": "Automatic coffee machine with multiple brewing options and built-in grinder.",
+      "price": 99.99,
+      "image": "https://example.com/images/coffee-maker.jpg",
+      "category": "Home Appliances"
+    },
+   
+    {
+      "id": 10,
+      "name": "Air Fryer",
+      "description": "Healthy air fryer with adjustable temperature control and quick cooking time.",
+      "price": 89.99,
+      "image": "https://example.com/images/air-fryer.jpg",
+      "category": "Home Appliances"
+    }
+  ]
+  
