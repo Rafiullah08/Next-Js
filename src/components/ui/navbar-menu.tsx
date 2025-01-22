@@ -115,7 +115,7 @@ export const HoveredLink = ({ children, ...rest }: LinkProps & { children: React
   return (
     <Link
       {...rest}
-      className="text-neutral-700 dark:text-neutral-200 hover:text-black "
+      className="text-neutral-700 dark:text-neutral-200 hover:text-gray-700 "
     >
       {children}
     </Link>

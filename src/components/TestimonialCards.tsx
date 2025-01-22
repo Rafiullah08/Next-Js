@@ -71,11 +71,11 @@ function TestimonialCards() {
 
     
   return (
-    <div className="h-[35rem] w-full dark:bg-black bg-white  dark:bg-grid-white/[0.2] bg-grid-black/[0.2] realtive flex
+    <div className="realtive h-[35rem] w-full dark:bg-black bg-white  dark:bg-grid-white/[0.2]   flex
     flex-col items-center justify-center max-auto py-10 overflow-hidden md:py-0">
       <h1 className="text-4xl text-center font-bold mt-5">Hear Our Harmony: Voice Of Success</h1>
       <div className="flex justify-center overflow-hidden px-4 sm:px-6 lg:px-8">
-        <div className="w-full max-w-7xl">
+        <div className="w-full max-w-7xl ">
             <InfiniteMovingCards items={testimonials} />
         </div>
       </div>

@@ -1,5 +1,7 @@
 import FetuaredCourses from "@/components/FetuaredCourses";
+import Footer from "@/components/Footer";
 import HeroSection from "@/components/HeroSection";
+import Instructers from "@/components/Instructers";
 import TestimonialCards from "@/components/TestimonialCards";
 import UpcomingWebinars from "@/components/UpcomingWebinars";
 import WhyChooseUs from "@/components/WhyChooseUs";
@@ -17,6 +19,8 @@ export default function Home() {
 <WhyChooseUs/>
 <TestimonialCards/>
 <UpcomingWebinars/>
+<Instructers/>
+<Footer/>
 </main>
   );
 }
