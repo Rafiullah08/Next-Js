@@ -1,76 +1,68 @@
 [
     {
       "id": 1,
-      "name": "Wireless Bluetooth Headphones",
-      "description": "Noise-cancelling over-ear headphones with up to 20 hours of battery life.",
-      "price": 89.99,
+      "name": "Full Stack Development",
+      "description": "Learn both front-end and back-end technologies to build complete, interactive web applications. Master HTML, CSS, JavaScript, and popular frameworks like React, Node.js, and databases.",
       "image": "https://example.com/images/headphones.jpg",
-      "category": "Electronics"
+      "price": "1 Year",
+      "category": "ReactJs NextJs NodeJs"
     },
     {
       "id": 2,
-      "name": "Smartphone Stand",
-      "description": "Adjustable and foldable stand for smartphones and tablets.",
-      "price": 19.99,
-      "image": "https://example.com/images/stand.jpg",
-      "category": "Accessories"
+      "name": "FrontEnd Development",
+      "description": "Dive into the world of web design with a focus on creating visually appealing, user-friendly websites using HTML, CSS, JavaScript, and responsive frameworks like Bootstrap.",
+      "price": "6 Months",
+      "category": "ReactJs JavaScript HTML Css"
     },
     {
       "id": 3,
-      "name": "Laptop Backpack",
-      "description": "Durable backpack with dedicated compartments for laptops and accessories.",
-      "price": 49.99,
-      "image": "https://example.com/images/backpack.jpg",
-      "category": "Bags"
+      "name": "Backend Development",
+      "description": "Gain expertise in server-side programming, databases, and APIs. Learn languages like Node.js, Python, and PHP to handle data management and create efficient back-end systems",
+      "price": "6 Months",
+      "category": "NodeJs ExpressJs MongoDb"
     },
     {
       "id": 4,
-      "name": "Bluetooth Speaker",
+      "name": "C.I.T",
       "description": "Compact and portable speaker with deep bass and wireless connectivity.",
-      "price": 59.99,
-      "image": "https://example.com/images/speaker.jpg",
-      "category": "Electronics"
+      "price": "6 Months",
+      "category": "Ms Office HTML Adobe Photoshop"
     },
     {
       "id": 5,
-      "name": "Fitness Tracker",
-      "description": "Wearable fitness tracker with heart rate monitor and step counting.",
-      "price": 39.99,
-      "image": "https://example.com/images/fitness-tracker.jpg",
-      "category": "Wearables"
+      "name": "Ms Office",
+      "description": " Master the essential Microsoft Office Suite (Word, Excel, PowerPoint) to enhance your office productivity and improve your ability to create documents, spreadsheets, and presentations.",
+      "price": "3 Months",
+      "category": "Ms Word Excel Power Point"
     },
     {
       "id": 6,
-      "name": "Smartwatch",
-      "description": "Stylish smartwatch with fitness tracking, heart rate monitoring, and notifications.",
-      "price": 129.99,
-      "image": "https://example.com/images/smartwatch.jpg",
-      "category": "Wearables"
+      "name": "Graphic Design",
+      "description": "Unlock your creativity with graphic design skills. Learn to use industry-standard tools like Adobe Photoshop, Illustrator, and InDesign to create stunning visuals for both digital and print media.",
+      "price": "6 Months",
+      "category": "Adobe Photoshop illustrator"
     },
     {
       "id": 7,
-      "name": "Wireless Charging Pad",
-      "description": "Fast wireless charging pad for smartphones and wireless earbuds.",
-      "price": 24.99,
-      "image": "https://example.com/images/charger.jpg",
-      "category": "Accessories"
+      "name": "WordPress Development",
+      "description": "Master the world’s most popular content management system. Learn how to design, develop, and maintain custom WordPress websites for businesses and individuals",
+     "price": "6 Months",
+      "category": "wordpress woocommerce"
     },
     {
       "id": 8,
-      "name": "Coffee Maker",
-      "description": "Automatic coffee machine with multiple brewing options and built-in grinder.",
-      "price": 99.99,
-      "image": "https://example.com/images/coffee-maker.jpg",
-      "category": "Home Appliances"
+      "name": "Typing",
+      "description": "Improve your typing speed and accuracy with practical lessons and exercises. Master touch typing to boost your productivity and efficiency in any digital work environment.",
+      "price": "4 Months"
+      
     },
    
     {
       "id": 10,
-      "name": "Air Fryer",
+      "name": "Computer Basics",
       "description": "Healthy air fryer with adjustable temperature control and quick cooking time.",
-      "price": 89.99,
-      "image": "https://example.com/images/air-fryer.jpg",
-      "category": "Home Appliances"
+      "price": "4 Months",
+      "category": "Ms Office Window Installition Basic Typing"
     }
   ]
   

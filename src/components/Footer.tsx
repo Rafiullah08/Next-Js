@@ -19,7 +19,7 @@ function Footer() {
         <h2 className='text-white font-semi-bold'>Contact Us</h2>
     </div>
 </div>
-<p className='text-center pt-8 text-xs'>@ 2025 Rgc Tech World. All Rights Reserverd</p>
+<p className='text-center pt-8 text-xs'>@ 2025 TechNova Academy. All Rights Reserverd</p>
      </footer> 
     </div>
   )
